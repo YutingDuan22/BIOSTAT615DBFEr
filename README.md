@@ -1,7 +1,7 @@
 # DBFEr
 This is the final project for BIOSTAT615: implement DBFE in R. A Detailed Example of how to use this package can be found at https://colab.research.google.com/drive/1QCQL2oS85zodcQKTiJVyVDxTv0KQ8RAy?usp=sharing. 
 
-The main function of this package is `DistributionBasedFeatureExtractor()`, which pass argument of a data.frame of lengths. Before call the function, data needs to be preprocessed into specific format.
+The main function of this package `DistributionBasedFeatureExtractor()` is used to extract the features for the data. The example data can be found under the data category, more data can be obtained through under the experiment folder. 
 
 
 
